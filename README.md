@@ -31,10 +31,10 @@ For the **Toon Shader**, the logic from the `shade_raytrace` was adapted, and a 
 ### 🖼 Example Outputs
 
 - **Refraction Example**  
-  ![](Homework1/Consegna%20Homework%201/papa_edoardo_1962169/0x_refract_720_256.jpg)
+  ![]([Homework1/Consegna%20Homework%201/papa_edoardo_1962169/](https://github.com/DarkShrill/Fundamentals-of-Computer-Graphics-Homework-Projects/blob/master/Homework1/Consegna%20Homework%201/)0x_refract_720_256.jpg)
 
 - **Toon Effect Example**  
-  ![](Homework1/Consegna%20Homework%201/papa_edoardo_1962169/0x_toon_effect_720_256.jpg)
+  ![]([Homework1/Consegna%20Homework%201/papa_edoardo_1962169/0x_toon_effect_720_256.jpg](https://github.com/DarkShrill/Fundamentals-of-Computer-Graphics-Homework-Projects/blob/master/Homework1/Consegna%20Homework%201/0x_toon_effect_720_256.jpg))
 
 ### ▶️ Run Examples
 ```bash
